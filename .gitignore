@@ -1,3 +1,15 @@
+#self ignore
+*.pkl
+*.pickle
+*.h5
+core
+*.log
+*.log.*
+*.hdf5
+logs/
+working_folder/
+*.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,10 @@
+{
+    
+"lisi1": {
+    "home_path": "/home/aerossom/git_repos/dmlpr",
+    "bioasq_data": "/home/aerossom/bioasq_data/",
+    "eval_home": "/home/aerossom/git_repos/Evaluation-Measures/",
+    "cooc_home": "/home/aerossom/bioasq_data/embeddings/cooccurrence_matrices",
+    "word2vec_model": "/home/aerossom/bioasq_data/embeddings/wikipedia-pubmed-and-PMC-w2v.bin"
+}
+}
